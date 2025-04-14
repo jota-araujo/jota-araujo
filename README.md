@@ -21,3 +21,8 @@
 Se quiser trocar uma ideia, colaborar em projetos ou só bater um papo sobre tech, sinta-se à vontade para me chamar!
 
 ---
+
+## 📈 Objetivos
+-Me tornar um desenvolvedor full stack
+-Participar de projetos open source
+-Conquistar meu primeiro emprego na área de tecnologia
