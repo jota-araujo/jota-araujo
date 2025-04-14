@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Olá! Eu sou o João
+🎓 Tenho 18 anos e atualmente estou cursando o técnico em Análise e Desenvolvimento de Sistemas.
+💻 Meu foco é trabalhar com tecnologia e programação, sempre buscando aprender coisas novas e evoluir na área.
+🚀 Apaixonado por resolver problemas com código e transformar ideias em soluções reais.
 
-<!--
-**jota-araujo/jota-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias e Ferramentas que estou aprendendo:
+HTML, CSS, JavaScript
+Python
+Banco de Dados (MySQL, SQLite)
+Git e GitHub
+VS Code
+📚 Estou estudando:
+Lógica de programação
+Estrutura de dados
+Orientação a Objetos
+Desenvolvimento Web
+📈 Objetivos:
+Me tornar um desenvolvedor full stack
+Participar de projetos open source
+Conquistar meu primeiro emprego na área de tecnologia
